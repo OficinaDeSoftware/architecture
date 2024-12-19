@@ -34,4 +34,4 @@ CloudAMPQ
 
 ### Flow
 
-![Flow](flow/image/comunication-flow.jpg)
+![Flow](flow/image/comunication-flow.png)
